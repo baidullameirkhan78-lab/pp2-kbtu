@@ -1,0 +1,6 @@
+Milk 500
+Bread 300
+Juice 250
+Total: 1050
+Date: 25.02.2026
+Payment: Card
